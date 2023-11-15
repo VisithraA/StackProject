@@ -1,0 +1,88 @@
+{
+"destination":{
+	"1":"Rome",
+	"2":"Paris",
+	"3":"Barcelona",
+	"4":"Tokyo"
+},
+	
+	
+    "Rome": {
+    	"1":"country of Rome",
+    	"2":"Places in Rome",
+    	"3":"Hotel in Rome"
+     },
+     
+     "country of Rome":{
+     "country":"Italy"
+     },
+     
+     "Places in Rome":{
+     "Place1":"Colosseum",
+     "Place2":"Vatican City"
+     },
+     
+     "Hotel in Rome":{
+     "Hotel1":"Hotel A",
+     "Hotel2":"Hotel B"
+     },
+    
+    
+    "Paris": {
+    	"1":"country of Paris",
+    	"2":"Places in Paris",
+    	"3":"Hotel in Paris"
+     },
+     "country of Paris":{
+     "country":"France"
+     },
+     
+     "Places in Paris":{
+     "Place1":"Eiffel Tower",
+     "Place2":"Louvre Museum"
+     },
+     
+     "Hotel in Paris":{
+     "Hotel1":"Hotel X",
+     "Hotel2":"Hotel Y"},
+    
+   
+    "Barcelona": {
+    	"1":"country of Barcelona",
+    	"2":"Places in Barcelona",
+    	"3":"Hotel in Barcelona"
+     },
+     "country of Barcelona":{
+     "country":"Spain"
+     },
+     
+     "Places in Barcelona":{
+     "Place1":"Colosseum",
+     "Place2":"Park Güell"
+     },
+     
+     "Hotel in Barcelona":{
+     "Hotel1":"Hotel M",
+     "Hotel2":"Hotel N"
+     },
+     
+     "Tokyo": {
+    	"1":"country of Tokyo",
+    	"2":"Places in Tokyo",
+    	"3":"Hotel in Tokyo"
+     },
+     "country of Tokyo":{
+     "country":"Japan"
+     },
+     
+     "Places in Tokyo":{
+     "Place1":"Tokyo Tower",
+     "Place2":"Asakusa Shrine"
+     },
+     
+     "Hotel in Tokyo":{
+     "Hotel1":"Hotel P",
+     "Hotel2":"Hotel Q"
+     }
+  
+}
